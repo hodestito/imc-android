@@ -1,4 +1,4 @@
-package dev.petronilio.imc
+package dev.fiap.imc
 
 import org.junit.Test
 

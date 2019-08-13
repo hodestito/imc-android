@@ -1,4 +1,4 @@
-package dev.petronilio.imc
+package dev.fiap.imc
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("dev.petronilio.imc", appContext.packageName)
+        assertEquals("dev.fiap.imc", appContext.packageName)
     }
 }

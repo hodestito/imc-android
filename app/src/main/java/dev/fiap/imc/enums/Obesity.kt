@@ -1,4 +1,4 @@
-package dev.petronilio.imc.enums
+package dev.fiap.imc.enums
 
 enum class Obesity{
     BELOW,

@@ -1,9 +1,9 @@
-package dev.petronilio.imc.activities
+package dev.fiap.imc.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import dev.petronilio.imc.R
+import dev.fiap.imc.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

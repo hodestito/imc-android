@@ -1,11 +1,11 @@
-package dev.petronilio.imc.activities
+package dev.fiap.imc.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.content.ContextCompat
-import dev.petronilio.imc.R
-import dev.petronilio.imc.enums.Obesity
-import dev.petronilio.imc.extensions.toFixed
+import dev.fiap.imc.R
+import dev.fiap.imc.enums.Obesity
+import dev.fiap.imc.extensions.toFixed
 import kotlinx.android.synthetic.main.activity_result.*
 
 class ResultActivity : AppCompatActivity() {
